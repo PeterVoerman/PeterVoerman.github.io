@@ -1,0 +1,19 @@
+{"peter":{
+    "address":["0x846b5cc335b57ffa37f9498847c3ebc7fb52cf7b", "0x2b58ac621224579f770191326cbfceb844b98455"],
+    "amount":0,
+    "fraction":0,
+    "wallet":0
+},
+"floris":{
+    "address":["0xb1bb4cc9f86296b7591f18564ab48c691fc9ed59", "0xd54298ee13e5cdaac33a0b6ab2cfc86e3b8772f2", "0x16fb9e83a58474e04af009d57eb26895430e5d6d"],
+    "amount":0,
+    "fraction":0,
+    "wallet":0
+},
+"tobi":{
+    "address":["0x7a5657eb91ce2b85260b600c61d34be10e608978", "0x4ec5e70484ed762d884b29729d33dc73e74a5927"],
+    "amount":0,
+    "fraction":0,
+    "wallet":0
+}
+}
