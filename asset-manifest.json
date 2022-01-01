@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whatsappanalyzer/static/css/main.61e00c9d.chunk.css",
+    "main.js": "/whatsappanalyzer/static/js/main.3eef6e85.chunk.js",
+    "main.js.map": "/whatsappanalyzer/static/js/main.3eef6e85.chunk.js.map",
+    "runtime-main.js": "/whatsappanalyzer/static/js/runtime-main.d0b5008f.js",
+    "runtime-main.js.map": "/whatsappanalyzer/static/js/runtime-main.d0b5008f.js.map",
+    "static/css/2.383c0125.chunk.css": "/whatsappanalyzer/static/css/2.383c0125.chunk.css",
+    "static/js/2.873ee816.chunk.js": "/whatsappanalyzer/static/js/2.873ee816.chunk.js",
+    "static/js/2.873ee816.chunk.js.map": "/whatsappanalyzer/static/js/2.873ee816.chunk.js.map",
+    "static/js/3.ef8e22d0.chunk.js": "/whatsappanalyzer/static/js/3.ef8e22d0.chunk.js",
+    "static/js/3.ef8e22d0.chunk.js.map": "/whatsappanalyzer/static/js/3.ef8e22d0.chunk.js.map",
+    "index.html": "/whatsappanalyzer/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/whatsappanalyzer/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.61e00c9d.chunk.css.map": "/whatsappanalyzer/static/css/main.61e00c9d.chunk.css.map",
+    "static/js/2.873ee816.chunk.js.LICENSE.txt": "/whatsappanalyzer/static/js/2.873ee816.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b5008f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.873ee816.chunk.js",
+    "static/css/main.61e00c9d.chunk.css",
+    "static/js/main.3eef6e85.chunk.js"
+  ]
+}
